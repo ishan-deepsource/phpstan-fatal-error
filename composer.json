@@ -1,0 +1,8 @@
+{
+    "name": "ishan-deepsource/phpstan-fatal-error",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+parameters:
+	level: 1
+	paths:
+		- src/Bar.php
+	scanDirectories:
+		- /Users/ishan/Code/ishan-deepsource/phpstan-fatal-error/src
